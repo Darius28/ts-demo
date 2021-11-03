@@ -1,4 +1,4 @@
-class Todo {
+class TodoModel {
   id: string;
   text: string;
 
@@ -8,4 +8,4 @@ class Todo {
   }
 }
 
-export default Todo;
+export default TodoModel;
